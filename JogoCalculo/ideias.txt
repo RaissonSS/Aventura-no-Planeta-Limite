@@ -1,0 +1,58 @@
+------------------------------------------------ GABARITO
+
+1° 27
+2° 96
+3° -1
+4° 30
+5° opc 4
+6° 4
+
+
+------------------------------------------------ ANDAMENTO
+
+
+1°Q > Decidirá se o jogador achará seu traje de proteção.
+    g > adquirindo a roupa, o jogador não sofre danos colaterais e não é envenenado pela atmosfera.
+    p > o jogador pode sofrer danos colaterais e é envenenado pela atmosfera.
+
+1°E
+
+2°Q
+
+2°E
+
+3°Q
+
+4°Q     
+
+3°E
+
+5°Q > O jogador encontra o cientista perdido, e juntos, precisam resolver o último dilema matemático.
+
+
+--------------------------------------------------------- FINALIZAÇÃO
+
+
+AFTER
+    o computador é restaurado se as 6 questões forem acertadas, se não, ele só será regenerado após
+    (questões erradas * 3) dias.
+
+SE o jogador tiver que esperar x dias para sair, sobreviverá se tiver seu traje de proteção.
+                                                 morrerá se não tiver seu traje de proteção.
+WHEN
+    o jogador restaurar seu computador quântico, poderá escapar
+
+
+ ---------------------------------------------------- TIPOS DE FIMS
+
+COM TRAJE E SEM ESPERAR:
+    finalização VIVA mais correta do jogo.
+
+COM TRAJE E ESPERANDO:
+    finalização VIVA.
+
+SEM TRAJE ESPERANDO UMA VEZ:
+    finalização VIVA mais sortuda do jogo.
+
+SEM TRAJE E ESPERANDO:
+    finalização MORTA.
